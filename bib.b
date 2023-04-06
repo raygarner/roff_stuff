@@ -307,3 +307,44 @@
 %A Cuthbert, Michael Scott and Ariza, Christopher
 %D 2010,
 %I International Society for Music Information Retrieval
+
+%K lispmachine80
+%T A lisp machine
+%A Greenblatt, Richard D and Knight, Thomas F and Holloway, John T and Moon, David A
+%P 137-138
+%D 1980
+
+%K lispmachine93
+%T THE SYMBOLICS VIRTUAL LISP MACHINE
+%A P.T. Withington, Scott McKay, Gary Palter, Paul Robertson
+%D 1993
+
+%K modes12
+%T Emotional connotations of diatonic modes
+%A Temperley, David and Tan, Daphne
+%J Music Perception: An Interdisciplinary Journal
+%V 30
+%N 3
+%P 237-257
+%D 2012
+%I University of California Press
+
+%K melody10
+%T Melody generator: A device for algorithmic music construction
+%A Povel, Dirk-Jan and others
+%J Journal of Software Engineering and Applications
+%V 3
+%N 07
+%P 683
+%D 2010,
+%I Scientific Research Publishing
+
+%K musicxml01
+%T MusicXML for notation and analysis
+%A Good, Michael
+%J The virtual score: representation, retrieval, restoration
+%V 12
+%N 113-124
+%P 160
+%D 2001,
+%I MIT Press, Cambridge, MA
